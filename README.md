@@ -1,1 +1,3 @@
 # Hello-World
+
+In Web Design, I'd like to focus on creating user-centric, visually compelling websites that seamlessly blend aesthetics with functionality. My goal is to design intuitive interfaces that enhance user experience, ensuring that each site is not only visually appealing but also easy to navigate and interact with. I aim to stay ahead of design trends while prioritizing accessibility and responsiveness, making sure that every website I work on performs optimally across different devices and platforms. Ultimately, I want to craft digital experiences that not only meet the needs of users but also inspire and engage them.
